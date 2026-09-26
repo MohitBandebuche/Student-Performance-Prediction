@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pkl
+!models/random_forest_model.pkl
+!models/scaler.pkl
+!models/encoder.pkl
